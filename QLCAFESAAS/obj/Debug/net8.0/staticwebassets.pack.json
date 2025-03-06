@@ -1,0 +1,589 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QLCAFESAAS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QLCAFESAAS.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\AccessDenied.css",
+      "PackagePath": "staticwebassets\\css\\AccessDenied.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\AdminStyle.css",
+      "PackagePath": "staticwebassets\\css\\AdminStyle.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\NOTICE.txt",
+      "PackagePath": "staticwebassets\\css\\Fonts\\NOTICE.txt"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\Roboto-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\Roboto-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\Roboto-BoldCondensed.ttf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\Roboto-BoldCondensed.ttf"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\Roboto-BoldCondensedItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\Roboto-BoldCondensedItalic.ttf"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\Roboto-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\Roboto-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\Roboto-Condensed.ttf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\Roboto-Condensed.ttf"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\Roboto-CondensedItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\Roboto-CondensedItalic.ttf"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\Roboto-Italic.ttf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\Roboto-Italic.ttf"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\Roboto-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\Roboto-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\Roboto-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\Roboto-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\Roboto-Thin.ttf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\Roboto-Thin.ttf"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\Roboto-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\Roboto-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Fonts\\Roboto_Specimen_Book.pdf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\Roboto_Specimen_Book.pdf"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\HienThiDanhSach.css",
+      "PackagePath": "staticwebassets\\css\\HienThiDanhSach.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\1.png",
+      "PackagePath": "staticwebassets\\css\\Images\\1.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\19baabe2-941d-43d4-bf87-c64e499275f5.png",
+      "PackagePath": "staticwebassets\\css\\Images\\19baabe2-941d-43d4-bf87-c64e499275f5.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\1a1abfd1-575e-42dd-88df-9e99ab58b1fa.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\1a1abfd1-575e-42dd-88df-9e99ab58b1fa.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\3228cf33-2c6c-4aa7-9a84-81595bff6e53.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\3228cf33-2c6c-4aa7-9a84-81595bff6e53.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\4646ef7d-be33-4c13-b2af-fa7db071167c.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\4646ef7d-be33-4c13-b2af-fa7db071167c.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\497d3404-403d-4d13-b554-d4c83e94527e.png",
+      "PackagePath": "staticwebassets\\css\\Images\\497d3404-403d-4d13-b554-d4c83e94527e.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\599c208e-1eec-464e-8125-f23b8ccd9c50.png",
+      "PackagePath": "staticwebassets\\css\\Images\\599c208e-1eec-464e-8125-f23b8ccd9c50.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\65268ebe-39db-463d-8328-678e1dfaa0f9.png",
+      "PackagePath": "staticwebassets\\css\\Images\\65268ebe-39db-463d-8328-678e1dfaa0f9.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\Footer\\Appstore.png",
+      "PackagePath": "staticwebassets\\css\\Images\\Footer\\Appstore.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\Footer\\Google Play.png",
+      "PackagePath": "staticwebassets\\css\\Images\\Footer\\Google Play.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\Footer\\Payment Gateway.png",
+      "PackagePath": "staticwebassets\\css\\Images\\Footer\\Payment Gateway.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\Icon\\Echo Shop Logo.svg",
+      "PackagePath": "staticwebassets\\css\\Images\\Icon\\Echo Shop Logo.svg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\Icon\\debit-card.svg",
+      "PackagePath": "staticwebassets\\css\\Images\\Icon\\debit-card.svg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\Icon\\delete.png",
+      "PackagePath": "staticwebassets\\css\\Images\\Icon\\delete.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\Icon\\logo.png",
+      "PackagePath": "staticwebassets\\css\\Images\\Icon\\logo.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\Icon\\logo2.png",
+      "PackagePath": "staticwebassets\\css\\Images\\Icon\\logo2.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\Icon\\phone-icon-vector-white.png",
+      "PackagePath": "staticwebassets\\css\\Images\\Icon\\phone-icon-vector-white.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\Icon\\phone.webp",
+      "PackagePath": "staticwebassets\\css\\Images\\Icon\\phone.webp"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\Icon\\tick icon.png",
+      "PackagePath": "staticwebassets\\css\\Images\\Icon\\tick icon.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\Icon\\trash.svg",
+      "PackagePath": "staticwebassets\\css\\Images\\Icon\\trash.svg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\afb296c7-b387-4ac9-a8dc-76e080b39d38.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\afb296c7-b387-4ac9-a8dc-76e080b39d38.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\banana-cake.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\banana-cake.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\bbcd5d7c-b19a-4547-aea2-aae4e47e1f5b.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\bbcd5d7c-b19a-4547-aea2-aae4e47e1f5b.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\beer.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\beer.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\bo-may-tinh-tien-01.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\bo-may-tinh-tien-01.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\c15f53fe-1d39-43f1-9fe7-32444b9d4a18.png",
+      "PackagePath": "staticwebassets\\css\\Images\\c15f53fe-1d39-43f1-9fe7-32444b9d4a18.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\cafe.png",
+      "PackagePath": "staticwebassets\\css\\Images\\cafe.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\canh-kho-qua-nhoi-thit.jpeg",
+      "PackagePath": "staticwebassets\\css\\Images\\canh-kho-qua-nhoi-thit.jpeg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\cappuchino.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\cappuchino.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\cococonut-cake.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\cococonut-cake.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\croissant.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\croissant.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\cua.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\cua.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\dd9ee719-420d-423b-a2a7-a41d6f2128f1.png",
+      "PackagePath": "staticwebassets\\css\\Images\\dd9ee719-420d-423b-a2a7-a41d6f2128f1.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\donut.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\donut.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\expresso.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\expresso.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\f08541c0-5ec4-474e-946f-130027557779.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\f08541c0-5ec4-474e-946f-130027557779.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\f50949e8-9581-44a8-86e4-31ba03178664.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\f50949e8-9581-44a8-86e4-31ba03178664.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\ff4ee0fe-4a9d-479e-8f91-7b467ac1b9ff.png",
+      "PackagePath": "staticwebassets\\css\\Images\\ff4ee0fe-4a9d-479e-8f91-7b467ac1b9ff.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\latte.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\latte.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\machiato.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\machiato.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\mocha.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\mocha.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\phan-mem-cafe-la-gi.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\phan-mem-cafe-la-gi.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\phan-mem-quan-ly-quan-cafe.png",
+      "PackagePath": "staticwebassets\\css\\Images\\phan-mem-quan-ly-quan-cafe.png"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\quan-ly-dat-ban.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\quan-ly-dat-ban.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\quan-ly-nhan-vien-chat-che-01.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\quan-ly-nhan-vien-chat-che-01.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\smoothie.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\smoothie.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\tea.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\tea.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Images\\tra-sua-chan-trau.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\tra-sua-chan-trau.jpg"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\LayoutCN.css",
+      "PackagePath": "staticwebassets\\css\\LayoutCN.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\LayoutMasterpage.css",
+      "PackagePath": "staticwebassets\\css\\LayoutMasterpage.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\LayoutNV.css",
+      "PackagePath": "staticwebassets\\css\\LayoutNV.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\NewProduct.css",
+      "PackagePath": "staticwebassets\\css\\NewProduct.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\Payment.css",
+      "PackagePath": "staticwebassets\\css\\Payment.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\rspCN.css",
+      "PackagePath": "staticwebassets\\css\\rspCN.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\rspNV.css",
+      "PackagePath": "staticwebassets\\css\\rspNV.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\rspmasterpage.css",
+      "PackagePath": "staticwebassets\\css\\rspmasterpage.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreCafeJavaScript.js",
+      "PackagePath": "staticwebassets\\js\\DeleteAndRestoreCafeJavaScript.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreProductJavaScript.js",
+      "PackagePath": "staticwebassets\\js\\DeleteAndRestoreProductJavaScript.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\js\\NV.js",
+      "PackagePath": "staticwebassets\\js\\NV.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\js\\OrderJavaScript.js",
+      "PackagePath": "staticwebassets\\js\\OrderJavaScript.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\File Học\\Năm2024-2025\\HocKy-1\\Web nâng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QLCAFESAAS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.QLCAFESAAS.props",
+      "PackagePath": "build\\QLCAFESAAS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.QLCAFESAAS.props",
+      "PackagePath": "buildMultiTargeting\\QLCAFESAAS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.QLCAFESAAS.props",
+      "PackagePath": "buildTransitive\\QLCAFESAAS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

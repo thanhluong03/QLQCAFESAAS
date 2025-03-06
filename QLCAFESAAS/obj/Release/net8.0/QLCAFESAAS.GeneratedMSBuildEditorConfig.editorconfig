@@ -1,0 +1,151 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = QLCAFESAAS
+build_property.RootNamespace = QLCAFESAAS
+build_property.ProjectDir = D:\File Học\Năm2024-2025\HocKy-1\Web nâng cao\QLCAFESAAS\QLCAFESAAS\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\File Học\Năm2024-2025\HocKy-1\Web nâng cao\QLCAFESAAS\QLCAFESAAS
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Admin/AccountDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWNjb3VudERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Admin/PaymentDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGF5bWVudERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Admin/PaymentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGF5bWVudExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Home/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Home/Master.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Manager/AddCafe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxBZGRDYWZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Manager/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxBZGRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Manager/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Manager/IndexCafe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxJbmRleENhZmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Manager/IndexProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxJbmRleFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Manager/NV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxOVi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Manager/Payment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxQYXltZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Manager/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Manager/Report.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Manager/ReportDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxSZXBvcnREZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Manager/UpdateCafe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxVcGRhdGVDYWZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Manager/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxVcGRhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Shared/_LayoutAdminSaas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pblNhYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Shared/_LayoutCN.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDTi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Shared/_LayoutMasterpage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRNYXN0ZXJwYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Shared/_LayoutNV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXROVi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Staff/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Staff/NV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcTlYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/File Học/Năm2024-2025/HocKy-1/Web nâng cao/QLCAFESAAS/QLCAFESAAS/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-44w2c1c8f9

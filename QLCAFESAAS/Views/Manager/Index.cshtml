@@ -1,0 +1,16 @@
+﻿@model List<QLCAFESAAS.Models.UserModel>
+
+@{
+    ViewData["Title"] = "Manager Page";
+    Layout = "~/Views/Shared/_LayoutCN.cshtml";
+}
+
+<form asp-action="IndexProduct" method="get">
+    <button type="submit">Hiển thị sản phẩm</button>
+</form>
+<form asp-action="IndexCafe" method="get">
+    <button type="submit">Hiển thị cửa hàng</button>
+</form>
+<form asp-action="Payment" method="get">
+    <button type="submit">Thanh toan dich vụ </button>
+</form>

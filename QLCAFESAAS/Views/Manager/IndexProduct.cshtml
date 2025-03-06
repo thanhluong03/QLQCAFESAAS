@@ -1,0 +1,88 @@
+﻿@model IEnumerable<QLCAFESAAS.Models.ProductModel>
+
+<link rel="stylesheet" href="~/css/HienThiDanhSach.css" asp-append-version="true" />
+<script src="~/js/DeleteAndRestoreProductJavaScript.js"></script>
+
+@{
+    ViewData["Title"] = "Manager Page";
+    Layout = "~/Views/Shared/_LayoutCN.cshtml";
+}
+
+<div class="form-container-List">
+    <h2 class="form-title">Danh sách sản phẩm</h2>
+
+    <form asp-action="AddProduct" method="get" class="formmn">
+        <button class="btnListadd">Thêm sản phẩm</button>
+    </form>
+
+    <!-- Bộ lọc cửa hàng -->
+    <form method="get" asp-action="IndexProduct">
+        <label for="cafeFilter">Chọn cửa hàng:</label>
+        <select id="cafeFilter" name="cafeId" onchange="this.form.submit()">
+            <option value="0" selected="@(ViewBag.SelectedCafeId == 0)">Tất cả cửa hàng</option>
+            @foreach (var cafe in ViewBag.Cafes)
+            {
+                <option value="@cafe.CafeID" selected="@(cafe.CafeID == ViewBag.SelectedCafeId)">
+                    @cafe.Label
+                </option>
+            }
+        </select>
+    </form>
+
+    <div class="outertable">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>STT</th>
+                    <th>Hình ảnh</th>
+                    <th>Tên hàng</th>
+                    <th>Đơn giá</th>
+                    <th>Mô tả</th>
+                    <th>Cửa hàng</th>
+                    <th>Xử lý</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Any())
+                {
+                    @for (int i = 0; i < Model.Count(); i++)
+                    {
+                        var product = Model.ElementAt(i);
+                        var dimClass = product.Status ? "" : "dimmed";
+
+                        <tr id="product-row-@product.ProductID">
+                            <td>@(i + 1)</td>
+                            <td>
+                                <img src="@ViewBag.ImagePaths[i]" alt="Ảnh sản phẩm"
+                                     class="@dimClass" style="width:50px; height:50px; object-fit:cover;" />
+                            </td>
+                            <td class="@dimClass">@product.ProductName</td>
+                            <td class="@dimClass">@string.Format("{0:n0} VND", product.Price)</td>
+                            <td class="@dimClass">@product.Description</td>
+                            <td class="@dimClass">@product.Cafe?.CafeName</td>
+                            <td>
+                                @if (product.Status)
+                                {
+                                    <button id="delete-btn-@product.ProductID" class="buttonDele" onclick="deleteProduct('@product.ProductID')">Xóa</button>
+                                    <button id="restore-btn-@product.ProductID" class="buttonRestore" onclick="restoreProduct('@product.ProductID')" style="display: none;">Khôi phục</button>
+                                    <button id="update-btn-@product.ProductID" class="buttonUpdate" onclick="updateProduct(@product.ProductID)">Sửa</button>
+                                }
+                                else
+                                {
+                                    <button id="delete-btn-@product.ProductID" class="buttonDele" onclick="deleteProduct('@product.ProductID')" style="display: none;">Xóa</button>
+                                    <button id="restore-btn-@product.ProductID" class="buttonRestore" onclick="restoreProduct('@product.ProductID')">Khôi phục</button>
+                                    <button id="update-btn-@product.ProductID" class="buttonUpdate" onclick="updateProduct(@product.ProductID)" style="display: none;">Sửa</button>
+                                }
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="7" style="text-align:center;">Không có sản phẩm nào.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>

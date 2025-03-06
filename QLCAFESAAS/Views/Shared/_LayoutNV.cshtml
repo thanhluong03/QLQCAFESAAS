@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Posapp</title>
+    <link rel="stylesheet" href="~/css/LayoutNV.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/rspNV.css" asp-append-version="true" />
+    <script src="~/js/NV.js" defer></script>
+</head>
+<body>
+    <header>
+        <div>
+            <button class="button-name"><a href="#" id="confirm-link">Xin chào, @User.Identity.Name</a></button>
+        </div>
+
+        <div class="DX">
+            <form asp-controller="Account" asp-action="Logout" method="post" style="display:inline;">
+                <button class="button-sign-out" type="submit">Đăng xuất</button>
+            </form>
+        </div>
+    </header>
+
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <!-- Overlay nền mờ -->
+    <div id="overlay" class="overlay" style="display: none;"></div>
+
+    <!-- Form xác nhận mật khẩu -->
+    <div id="logout-form" class="modal" style="display: none;">
+        <div class="modal-content">
+            <p>Nhập mật khẩu để xác nhận</p>
+            <input type="password" id="confirm-input" placeholder="Nhập mật khẩu của bạn">
+            <div id="error-message" style="color: red; display: none;">Mật khẩu không đúng!</div>
+                <button class="button-confirm" id="confirm-logout">Xác nhận</button>
+                <button class="button-confirm" id="cancel-logout">Hủy</button>
+        </div>
+    </div>
+
+</body>
+</html>

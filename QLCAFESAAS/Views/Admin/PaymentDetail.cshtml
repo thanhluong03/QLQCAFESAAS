@@ -1,0 +1,38 @@
+﻿@model IEnumerable<dynamic>
+
+@{
+    ViewData["Title"] = "Lịch sử thanh toán dịch vụ";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="header-form">
+    <a asp-action="PaymentList" asp-controller="Admin">Thanh toán</a> / Lịch sử
+</div>
+@if(Model.Any()) 
+{
+    var groupedByYear = Model.GroupBy(p => p.Date.Year);
+    <div class="container mt-5">
+        <h3>@Model.FirstOrDefault()?.UserName</h3>
+
+        @foreach (var yearGroup in groupedByYear)
+        {
+            <div class="year-section">
+                <h4 class="mt-4">@yearGroup.Key</h4>
+                <ul>
+                    @foreach (var payment in yearGroup)
+                    {
+                        <li>
+                            <strong>Tháng:</strong> @payment.Date.ToString("MM") -
+                            <strong>Số tiền:</strong> @payment.Amount.ToString("C") - 
+                            <strong>Thời gian thanh toán:</strong> @payment.Date.ToString("dd/MM/yyyy HH:mm:ss")
+                        </li>
+                    }
+                </ul>
+            </div>
+        }
+    </div>
+}
+else 
+{
+    <h2 class="mt-5">Không có hóa đơn để hiển thị</h2>
+}
