@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QLCAFESAAS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a28b4fc560065113ecb5733c7f0958f62c2e66d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("QLCAFESAAS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QLCAFESAAS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

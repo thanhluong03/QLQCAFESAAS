@@ -3,16 +3,64 @@
   "WorkspaceRootPath": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\manager\\indexcafe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\manager\\indexcafe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\manager\\indexproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\manager\\indexproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\manager\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\manager\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\manager\\indexcafe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\manager\\indexcafe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\wwwroot\\js\\deleteandrestoreproductjavascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\wwwroot\\js\\deleteandrestoreproductjavascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\shared\\_layoutnv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\shared\\_layoutnv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\shared\\_layoutadminsaas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\shared\\_layoutadminsaas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\shared\\_layoutcn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\shared\\_layoutcn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\wwwroot\\css\\layoutcn.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\wwwroot\\css\\layoutcn.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\shared\\_layoutmasterpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\shared\\_layoutmasterpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\wwwroot\\css\\layoutnv.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\wwwroot\\css\\layoutnv.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\wwwroot\\js\\deleteandrestorecafejavascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -23,32 +71,8 @@
       "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\wwwroot\\js\\orderjavascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\shared\\_layoutadminsaas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\shared\\_layoutadminsaas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\shared\\_layoutcn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\shared\\_layoutcn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\shared\\_layoutmasterpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\shared\\_layoutmasterpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -57,14 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\shared\\_layoutnv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\shared\\_layoutnv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\migrations\\20250306030132_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -133,14 +149,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\manager\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\views\\manager\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\views\\manager\\updatecafe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -219,10 +227,6 @@
       "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\models\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\models\\repository\\caferepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\models\\repository\\caferepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|d:\\file h\u1ECDc\\n\u0103m2024-2025\\hocky-1\\web n\u00E2ng cao\\qlcafesaas\\qlcafesaas\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF5633E3-25E5-44BB-8DB1-51214ABD3B0F}|QLCAFESAAS\\QLCAFESAAS.csproj|solutionrelative:qlcafesaas\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -286,45 +290,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "QLCAFESAAS\\Controllers\\ManagerController.cs",
+              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "QLCAFESAAS\\Controllers\\ManagerController.cs",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAQwBoBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:47:20.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "QLCAFESAAS\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAEAAAA",
+              "Title": "_LayoutNV.cshtml",
+              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutNV.cshtml",
+              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Shared\\_LayoutNV.cshtml",
+              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutNV.cshtml",
+              "RelativeToolTip": "QLCAFESAAS\\Views\\Shared\\_LayoutNV.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T02:49:40.026Z"
+              "WhenOpened": "2025-03-06T03:05:35.975Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Manager\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Manager\\UpdateProduct.cshtml",
+              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Manager\\UpdateProduct.cshtml",
+              "RelativeToolTip": "QLCAFESAAS\\Views\\Manager\\UpdateProduct.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T02:49:29.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "IndexProduct.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Manager\\IndexProduct.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Manager\\IndexProduct.cshtml",
               "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Manager\\IndexProduct.cshtml",
               "RelativeToolTip": "QLCAFESAAS\\Views\\Manager\\IndexProduct.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-06T02:48:57.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DeleteAndRestoreCafeJavaScript.js",
-              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreCafeJavaScript.js",
-              "RelativeDocumentMoniker": "QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreCafeJavaScript.js",
-              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreCafeJavaScript.js",
-              "RelativeToolTip": "QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreCafeJavaScript.js",
-              "ViewState": "AQIAACYAAAAAAAAAAAAgwDYAAAAeAAAA",
+              "DocumentIndex": 4,
+              "Title": "DeleteAndRestoreProductJavaScript.js",
+              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreProductJavaScript.js",
+              "RelativeDocumentMoniker": "QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreProductJavaScript.js",
+              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreProductJavaScript.js",
+              "RelativeToolTip": "QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreProductJavaScript.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-06T02:37:38.1Z",
+              "WhenOpened": "2025-03-06T03:15:25.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "IndexCafe.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Manager\\IndexCafe.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Manager\\IndexCafe.cshtml",
@@ -338,31 +369,130 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ManagerController.cs",
-              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Controllers\\ManagerController.cs",
-              "RelativeDocumentMoniker": "QLCAFESAAS\\Controllers\\ManagerController.cs",
-              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Controllers\\ManagerController.cs",
-              "RelativeToolTip": "QLCAFESAAS\\Controllers\\ManagerController.cs",
-              "ViewState": "AQIAAKEAAAAAAAAAAAAswLIAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T02:47:20.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DeleteAndRestoreProductJavaScript.js",
-              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreProductJavaScript.js",
-              "RelativeDocumentMoniker": "QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreProductJavaScript.js",
-              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreProductJavaScript.js",
-              "RelativeToolTip": "QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreProductJavaScript.js",
-              "ViewState": "AQIAACsAAAAAAAAAAAAgwEAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-06T03:15:25.271Z",
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "QLCAFESAAS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T02:49:38.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "QLCAFESAAS\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T03:05:28.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LayoutAdminSaas.cshtml",
+              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutAdminSaas.cshtml",
+              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Shared\\_LayoutAdminSaas.cshtml",
+              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutAdminSaas.cshtml",
+              "RelativeToolTip": "QLCAFESAAS\\Views\\Shared\\_LayoutAdminSaas.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T03:05:30.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LayoutCN.cshtml",
+              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutCN.cshtml",
+              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Shared\\_LayoutCN.cshtml",
+              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutCN.cshtml",
+              "RelativeToolTip": "QLCAFESAAS\\Views\\Shared\\_LayoutCN.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T03:05:31.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LayoutMasterpage.cshtml",
+              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutMasterpage.cshtml",
+              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Shared\\_LayoutMasterpage.cshtml",
+              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutMasterpage.cshtml",
+              "RelativeToolTip": "QLCAFESAAS\\Views\\Shared\\_LayoutMasterpage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T03:05:34.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LayoutNV.css",
+              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\LayoutNV.css",
+              "RelativeDocumentMoniker": "QLCAFESAAS\\wwwroot\\css\\LayoutNV.css",
+              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\LayoutNV.css",
+              "RelativeToolTip": "QLCAFESAAS\\wwwroot\\css\\LayoutNV.css",
+              "ViewState": "AQIAAKIBAAAAAAAAAAAgwLQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-06T04:26:33.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "QLCAFESAAS\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T02:49:40.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LayoutCN.css",
+              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\LayoutCN.css",
+              "RelativeDocumentMoniker": "QLCAFESAAS\\wwwroot\\css\\LayoutCN.css",
+              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\LayoutCN.css",
+              "RelativeToolTip": "QLCAFESAAS\\wwwroot\\css\\LayoutCN.css",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAgwKEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-06T04:30:08.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QLCAFESAAS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T02:49:36.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteAndRestoreCafeJavaScript.js",
+              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreCafeJavaScript.js",
+              "RelativeDocumentMoniker": "QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreCafeJavaScript.js",
+              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreCafeJavaScript.js",
+              "RelativeToolTip": "QLCAFESAAS\\wwwroot\\js\\DeleteAndRestoreCafeJavaScript.js",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-06T02:37:38.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "OrderJavaScript.js",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\js\\OrderJavaScript.js",
               "RelativeDocumentMoniker": "QLCAFESAAS\\wwwroot\\js\\OrderJavaScript.js",
@@ -374,31 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "QLCAFESAAS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T02:49:38.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_LayoutAdminSaas.cshtml",
-              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutAdminSaas.cshtml",
-              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Shared\\_LayoutAdminSaas.cshtml",
-              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutAdminSaas.cshtml",
-              "RelativeToolTip": "QLCAFESAAS\\Views\\Shared\\_LayoutAdminSaas.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T03:05:30.398Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "site.css",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "QLCAFESAAS\\wwwroot\\css\\site.css",
@@ -410,31 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_LayoutCN.cshtml",
-              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutCN.cshtml",
-              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Shared\\_LayoutCN.cshtml",
-              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutCN.cshtml",
-              "RelativeToolTip": "QLCAFESAAS\\Views\\Shared\\_LayoutCN.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T03:05:31.949Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_LayoutMasterpage.cshtml",
-              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutMasterpage.cshtml",
-              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Shared\\_LayoutMasterpage.cshtml",
-              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutMasterpage.cshtml",
-              "RelativeToolTip": "QLCAFESAAS\\Views\\Shared\\_LayoutMasterpage.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T03:05:34.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "site.js",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "QLCAFESAAS\\wwwroot\\js\\site.js",
@@ -446,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Account\\Index.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Account\\Index.cshtml",
@@ -458,31 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_LayoutNV.cshtml",
-              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutNV.cshtml",
-              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Shared\\_LayoutNV.cshtml",
-              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutNV.cshtml",
-              "RelativeToolTip": "QLCAFESAAS\\Views\\Shared\\_LayoutNV.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T03:05:35.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeToolTip": "QLCAFESAAS\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T03:05:28.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "20250306030132_FirstMigration.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Migrations\\20250306030132_FirstMigration.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Migrations\\20250306030132_FirstMigration.cs",
@@ -494,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Models\\ErrorViewModel.cs",
@@ -506,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Controllers\\HomeController.cs",
@@ -518,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "StaffController.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Controllers\\StaffController.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Controllers\\StaffController.cs",
@@ -530,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "ReportDetail.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Manager\\ReportDetail.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Manager\\ReportDetail.cshtml",
@@ -542,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Controllers\\AccountController.cs",
@@ -554,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Models\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Models\\Repository\\ProductRepository.cs",
@@ -566,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "UserModel.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Models\\UserModel.cs",
@@ -578,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "ProductModel.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Models\\ProductModel.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Models\\ProductModel.cs",
@@ -590,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "PermissionsModel.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Models\\PermissionsModel.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Models\\PermissionsModel.cs",
@@ -602,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "PaymentModel.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Models\\PaymentModel.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Models\\PaymentModel.cs",
@@ -614,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "OrderModel.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Models\\OrderModel.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Models\\OrderModel.cs",
@@ -626,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "OrderDetailModel.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Models\\OrderDetailModel.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Models\\OrderDetailModel.cs",
@@ -638,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "CafeModel.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Models\\CafeModel.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Models\\CafeModel.cs",
@@ -650,7 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Program.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Program.cs",
@@ -662,7 +720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\appsettings.json",
               "RelativeDocumentMoniker": "QLCAFESAAS\\appsettings.json",
@@ -674,7 +732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\_ViewImports.cshtml",
@@ -686,31 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "QLCAFESAAS\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T02:49:36.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "UpdateProduct.cshtml",
-              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Manager\\UpdateProduct.cshtml",
-              "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Manager\\UpdateProduct.cshtml",
-              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Manager\\UpdateProduct.cshtml",
-              "RelativeToolTip": "QLCAFESAAS\\Views\\Manager\\UpdateProduct.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T02:49:29.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "UpdateCafe.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Manager\\UpdateCafe.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Manager\\UpdateCafe.cshtml",
@@ -722,7 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\_ViewStart.cshtml",
@@ -734,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "Report.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Manager\\Report.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Manager\\Report.cshtml",
@@ -746,7 +780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "Product.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Manager\\Product.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Manager\\Product.cshtml",
@@ -758,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "Payment.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Manager\\Payment.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Manager\\Payment.cshtml",
@@ -770,7 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "NV.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Manager\\NV.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Manager\\NV.cshtml",
@@ -782,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Manager\\Index.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Manager\\Index.cshtml",
@@ -794,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "AddProduct.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Manager\\AddProduct.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Manager\\AddProduct.cshtml",
@@ -806,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "AddCafe.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Manager\\AddCafe.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Manager\\AddCafe.cshtml",
@@ -818,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "Master.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Home\\Master.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Home\\Master.cshtml",
@@ -830,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "AccessDenied.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Home\\AccessDenied.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Home\\AccessDenied.cshtml",
@@ -842,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "PaymentList.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Admin\\PaymentList.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Admin\\PaymentList.cshtml",
@@ -854,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "PaymentDetail.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Admin\\PaymentDetail.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Admin\\PaymentDetail.cshtml",
@@ -866,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Admin\\Index.cshtml",
@@ -878,7 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "AccountDetail.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Admin\\AccountDetail.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Admin\\AccountDetail.cshtml",
@@ -890,7 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Home\\Privacy.cshtml",
@@ -902,7 +936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Views\\Home\\Index.cshtml",
@@ -914,7 +948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Controllers\\AdminController.cs",
@@ -926,7 +960,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "DataContext.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Models\\Repository\\DataContext.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Models\\Repository\\DataContext.cs",
@@ -938,19 +972,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "CafeRepository.cs",
-              "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Models\\Repository\\CafeRepository.cs",
-              "RelativeDocumentMoniker": "QLCAFESAAS\\Models\\Repository\\CafeRepository.cs",
-              "ToolTip": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Models\\Repository\\CafeRepository.cs",
-              "RelativeToolTip": "QLCAFESAAS\\Models\\Repository\\CafeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T02:44:07.48Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Services\\UserService.cs",
@@ -962,7 +984,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "PaymentRepository.cs",
               "DocumentMoniker": "D:\\File H\u1ECDc\\N\u0103m2024-2025\\HocKy-1\\Web n\u00E2ng cao\\QLCAFESAAS\\QLCAFESAAS\\Models\\Repository\\PaymentRepository.cs",
               "RelativeDocumentMoniker": "QLCAFESAAS\\Models\\Repository\\PaymentRepository.cs",

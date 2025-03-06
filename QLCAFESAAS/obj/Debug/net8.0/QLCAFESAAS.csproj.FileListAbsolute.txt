@@ -140,3 +140,4 @@ D:\File Học\Năm2024-2025\HocKy-1\Web nâng cao\QLCAFESAAS\QLCAFESAAS\obj\Debu
 D:\File Học\Năm2024-2025\HocKy-1\Web nâng cao\QLCAFESAAS\QLCAFESAAS\obj\Debug\net8.0\QLCAFESAAS.pdb
 D:\File Học\Năm2024-2025\HocKy-1\Web nâng cao\QLCAFESAAS\QLCAFESAAS\obj\Debug\net8.0\QLCAFESAAS.genruntimeconfig.cache
 D:\File Học\Năm2024-2025\HocKy-1\Web nâng cao\QLCAFESAAS\QLCAFESAAS\obj\Debug\net8.0\ref\QLCAFESAAS.dll
+D:\File Học\Năm2024-2025\HocKy-1\Web nâng cao\QLCAFESAAS\QLCAFESAAS\obj\Debug\net8.0\QLCAFESAAS.sourcelink.json

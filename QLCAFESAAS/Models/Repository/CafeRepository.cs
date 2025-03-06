@@ -32,5 +32,11 @@ namespace QLCAFESAAS.Models.Repository
             await _context.Cafes.AddAsync(cafe);
             await _context.SaveChangesAsync();
         }
+
+        public bool IsCafeExist(string cafeName, string address)
+        {
+            return _context.Cafes.Any(c => c.CafeName == cafeName && c.Address == address);
+        }
+
     }
 }

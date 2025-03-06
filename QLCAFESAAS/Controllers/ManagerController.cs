@@ -56,14 +56,15 @@ public class ManagerController : Controller
             return RedirectToAction("AccessDenied", "Home");
         }
 
-        if (_cafeRepository.IsCafenameExist(cafe.CafeName))
+        // Kiểm tra nếu cửa hàng có cùng tên và địa chỉ đã tồn tại
+        if (_cafeRepository.IsCafeExist(cafe.CafeName, cafe.Address))
         {
-            ModelState.AddModelError("CafeName", "Tên cửa hàng đã tồn tại. Vui lòng chọn tên khác.");
+            ModelState.AddModelError("CafeName", "Cửa hàng với tên và địa chỉ này đã tồn tại. Vui lòng chọn thông tin khác.");
 
             var username = User.Identity?.Name ?? "Guest";
             ViewData["UserName"] = username;
 
-            return View();
+            return View(cafe);
         }
 
         var newCafe = new CafeModel
@@ -79,8 +80,6 @@ public class ManagerController : Controller
         await _cafeRepository.AddCafeAsync(newCafe);
         return RedirectToAction("IndexCafe", "Manager");
     }
-
-
 
     [HttpGet]
     public IActionResult AddProduct()
@@ -316,15 +315,24 @@ public class ManagerController : Controller
         return View(cafe); // Trả về view với thông tin cửa hàng
     }
 
-    // POST: UpdateCafe
     [HttpPost]
-    public async Task<IActionResult> UpdateCafe(CafeModel cafe, IFormFile uploadedImage)
+    public async Task<IActionResult> UpdateCafe(CafeModel cafe)
     {
         var existingCafe = _dataContext.Cafes.FirstOrDefault(c => c.CafeID == cafe.CafeID);
 
         if (existingCafe == null)
         {
             return NotFound("Cửa hàng không tồn tại.");
+        }
+
+        // Kiểm tra xem có cửa hàng nào khác trùng tên và địa chỉ không
+        bool isDuplicate = _dataContext.Cafes
+            .Any(c => c.CafeID != cafe.CafeID && c.CafeName == cafe.CafeName && c.Address == cafe.Address);
+
+        if (isDuplicate)
+        {
+            ModelState.AddModelError("CafeName", "Cửa hàng với tên và địa chỉ này đã tồn tại. Vui lòng chọn thông tin khác.");
+            return View(cafe);
         }
 
         // Cập nhật thông tin cửa hàng
@@ -338,6 +346,7 @@ public class ManagerController : Controller
 
         return RedirectToAction("Index", "Manager"); // Chuyển hướng về danh sách cửa hàng
     }
+
 
 
     [HttpGet]
