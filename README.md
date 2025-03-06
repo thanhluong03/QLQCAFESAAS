@@ -6,6 +6,6 @@
 ![image alt](https://github.com/thanhluong03/QLQCAFESAAS/blob/a7711a2e67182309dc2c38dc281aff6f83cff08a/Images/report.png)
 ![image alt](https://github.com/thanhluong03/QLQCAFESAAS/blob/aa5f25050450e37b850bba41883041e2202b4604/Images/errlogin.png)
 ![image alt](https://github.com/thanhluong03/QLQCAFESAAS/blob/3e476d0853080f960624b05917515c0aaefab209/Images/admin.png)
-![image alt]()
+![image alt](https://github.com/thanhluong03/QLQCAFESAAS/blob/2ab0fbc446b31b992795763d4d239b223d28d978/Images/payadmin.png)
 ![image alt]()
 ![image alt]()
