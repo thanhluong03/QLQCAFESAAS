@@ -184,7 +184,6 @@ namespace WNC.G06.Controllers
             try
             {
                 user.UserName = model.UserName;
-                user.Password = model.Password;
                 user.Email = model.Email;
                 user.Status = model.Status;
                 user.PermissionID = model.PermissionID;

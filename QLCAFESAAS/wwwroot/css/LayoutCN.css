@@ -164,3 +164,13 @@ header {
     width: 82%;
     height: 100%;
 }
+
+.text-header {
+    display: flex;
+    justify-content: center; /* Căn giữa theo chiều ngang */
+    align-items: center; /* Căn giữa theo chiều dọc (nếu cần) */
+    text-align: center; /* Đảm bảo văn bản căn giữa */
+    height: 50px; /* Điều chỉnh chiều cao nếu cần */
+    font-size: 24px; /* Kích thước chữ */
+    font-weight: bold; /* Làm đậm chữ */
+}
